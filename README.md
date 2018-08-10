@@ -8,7 +8,7 @@ Please fork this repo and work on the test. After finishing the test, please sen
 
 ![It's Data Quest, not Dragon Quest](https://vignette.wikia.nocookie.net/finalfantasy/images/5/58/Dragon_Quest_Logo.jpg/revision/latest?cb=20110423144901)
 
-As you can see, we have **sample-data.csv** in this repo. It is a dataset contain 100 trips data from our database, each trip has it own *name*, *introduction* of the trip, *itinerary* or schedule include activities of the trip and *destination location*. From this info, we want to know the relation of words in trips and a brief report for easy explanation.
+As you can see, we have **sample-data.csv** in this repo. It is a dataset contain 100 trips data from our database, each trip has its own *name*, *introduction* of the trip, *itinerary* or schedule include activities of the trip and *destination location*. From this info, we want to know the relation of words in trips and a brief report for easy explanation.
 
 ### Example
 
